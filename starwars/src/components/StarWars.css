@@ -1,0 +1,20 @@
+.cta {
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	width: 430px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+	border-radius: 10%;
+	box-sizing: border-box;
+}
+
+.cardInfo {
+	max-width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}

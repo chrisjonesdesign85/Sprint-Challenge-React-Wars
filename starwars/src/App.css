@@ -1,8 +1,12 @@
 .App {
-  text-align: center;
+	text-align: center;
+	/* -ms-transform: skew(20deg);  IE 9 
+	-webkit-transform: skew(20deg);  Safari 
+	transform: skew(-20deg, 0deg,); Standard syntax */
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+	color: white;
+	text-shadow: 1px 1px 5px #fff;
 }
+
 /* write your parent styles in here for your App.js */
